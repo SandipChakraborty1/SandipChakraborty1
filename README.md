@@ -11,18 +11,7 @@ I believe in shipping fast, learning faster, and never stopping 🚀
 - 👁️‍🗨️ **Profile Views**  
   ![Profile views](https://komarev.com/ghpvc/?username=sandipchakraborty1&label=Visitors&color=0e75b6&style=flat)
 
-- 🧠 **Most Used Languages**
-   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandipchakraborty1&layout=compact&theme=tokyonight)](https://github.com/sandipchakraborty1) <br/>
-  <!-- Spacer -->
-<a name="spacer"></a>
 
-
-- 🔥 **GitHub Streak**  
-
-    ![](https://nirzak-streak-stats.vercel.app/?user=sandipchakraborty1&theme=shadow_green&hide_border=false)<br/>
-
----
 
 ### 🛠️ My Tech Toolbox
 
