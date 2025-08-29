@@ -1,7 +1,6 @@
 # 👋 Hey, I'm Sandip Chakraborty
 
-A passionate frontend web developer from India 🇮🇳  
-Currently building awesome UIs⚡  
+A passionate web developer from India.  
 I believe in shipping fast, learning faster, and never stopping 🚀
 
 ---
@@ -37,8 +36,8 @@ I believe in shipping fast, learning faster, and never stopping 🚀
 
 ### 💬 A Bit About Me
 
-- 🧠 Currently mastering frontend development
-- 🔧 Working on real projects with React
+
+- 🔧 Working on real projects with NEXT JS.
 - ⚙️ C & C++ problem-solving enthusiast
 - 👨‍💻 Passionate about building things that work fast & look good
 - 🌍 Learning with the goal to reach global dev opportunities
